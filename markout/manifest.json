@@ -1,0 +1,59 @@
+{
+    "name": "Waylon Walker",
+    "short_name": "ww",
+    "start_url": "/",
+    "display": "minimal-ui",
+    "background_color": "#B73CF6",
+    "theme_color": "#322D39",
+    "description": "I write about how I use python and linux in data science.",
+    "icons": [
+        {
+            "src": "mypage_48x48.ico",
+            "sizes": "48x48",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_72x72.ico",
+            "sizes": "72x72",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_96x96.ico",
+            "sizes": "96x96",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_144x144.ico",
+            "sizes": "144x144",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_192x192.ico",
+            "sizes": "192x192",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_256x256.ico",
+            "sizes": "256x256",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_384x384.ico",
+            "sizes": "384x384",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mypage_512x512.ico",
+            "sizes": "512x512",
+            "type": "image/ico",
+            "purpose": "any maskable"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[markata]
+site_version = 0.1
+## Site Config
+url = "https://waylonwalker.com"
+images_url = "https://images.waylonwalker.com"
+title = "Waylon Walkers Digital Garden"
+description = "I write about how I use python and linux in data science."
+rss_description = "Waylon Walkers posts"
+author_name = "Waylon Walker"
+author_email = "waylon@waylonwalaker.com"
+icon = "mypage.ico"
+lang = "en"
+# post_template = "pages/templates/post_template.html"
+# amp_template = "pages/templates/post_template.amp.html"
+theme_color = "#322D39"
+background_color = "#B73CF6"
+start_url = "/"
+site_name = "Waylon Walker"
+short_name = "ww"
+display = "minimal-ui"
+twitter_card = "summary_large_image"
+twitter_creator = "@_waylonwalker"
+twitter_site = "@_waylonwalker"
